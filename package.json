@@ -15,7 +15,7 @@
     "dotenv": "^10.0.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.14",
+    "nodemon": "^2.0.20",
     "prisma": "^3.3.0"
   }
 }
